@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+
+# 生成脚本与原始数据（仅本地，不入库）
+generate.py
+generate_ppt.py
+roadmap_content.py
+_papers_dump.json
+_analysis.txt
